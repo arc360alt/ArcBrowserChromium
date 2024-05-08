@@ -1,5 +1,5 @@
-# chromium-script
+# ArcBrowser Script
 
 Just clone and run `python script.py`
 
-I'll make this doc nicer soon
+Unfinished, go to my `ArcBrowser` Respretory that has the acutal browser
