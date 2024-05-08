@@ -4,8 +4,8 @@ import glob
 from PIL import Image
 from config import sizes, names
 
-CHROMIUM_PATH = "C:/Users/Amal/Documents/Code/chromium"
-BROWSER_NAME = "AphrxBrowser"
+CHROMIUM_PATH = "C:/src/chromium"
+BROWSER_NAME = "ArcBrowser"
 EXTENSIONS = ['grd', 'grdp']
 
 def replace_file_with_text(name, str_a, str_b):
